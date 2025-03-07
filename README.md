@@ -1,9 +1,8 @@
 # GUANJI
-
+使用MQTT服务控制PC关机
 ##  1.注意事项
 #### 需要安装.NET8控制台运行时:[下载地址](https://dotnet.microsoft.com/zh-cn/download/dotnet/8.0)
 #### 可以先不安装服务，直接执行GUANJI.exe允许控制台程序，测试是否可以正常连接MQTT
-##  2.理论上可以跨平台，我只有Windows电脑的需求，其他平台自己打包测试
 
 ##  3.配置参数，有备注，自行修改
 ```
